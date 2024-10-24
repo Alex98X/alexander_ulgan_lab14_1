@@ -1,4 +1,4 @@
-package com.example.imageclassifierstep
+package com.example.Anzules_Jordan_Lab14_1
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -9,8 +9,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 import com.google.mlkit.vision.common.InputImage
 import com.google.mlkit.vision.label.ImageLabeling
 import com.google.mlkit.vision.label.defaults.ImageLabelerOptions

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.imageclassifierstep"
+    namespace = "com.example.Anzules_Jordan_Lab14_1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.imageclassifierstep"
+        applicationId = "com.example.Anzules_Jordan_Lab14_1"
         minSdk = 25
         targetSdk = 34
         versionCode = 1
@@ -45,5 +45,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-    implementation ("com.google.mlkit:image-labeling:17.0.3")
+    implementation ("com.google.mlkit:image-labeling:17.0.9")
 }

@@ -1,4 +1,4 @@
-package com.example.imageclassifierstep
+package com.example.Anzules_Jordan_Lab14_1
 
 import org.junit.Test
 
