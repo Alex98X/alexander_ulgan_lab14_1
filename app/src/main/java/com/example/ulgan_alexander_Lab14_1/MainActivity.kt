@@ -1,4 +1,4 @@
-package com.example.Anzules_Jordan_Lab14_1
+package com.example.ulgan_alexander_Lab14_1
 
 import android.content.Context
 import android.graphics.Bitmap
@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         val img: ImageView = findViewById(R.id.imageToLabel)
         // assets folder image file name with extension
-        val fileName = "flowert1.jpg"
+        val fileName = "flower1.jpg"
         // get bitmap from assets folder
         val bitmap: Bitmap? = assetsToBitmap(fileName)
         bitmap?.apply {

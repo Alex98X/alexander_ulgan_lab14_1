@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.Anzules_Jordan_Lab14_1"
+    namespace = "com.example.ulgan_alexander_Lab14_1"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.Anzules_Jordan_Lab14_1"
+        applicationId = "com.example.ulgan_alexander_Lab14_1"
         minSdk = 25
         targetSdk = 34
         versionCode = 1

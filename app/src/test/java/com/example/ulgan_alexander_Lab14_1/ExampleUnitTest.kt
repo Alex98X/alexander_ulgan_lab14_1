@@ -1,4 +1,4 @@
-package com.example.Anzules_Jordan_Lab14_1
+package com.example.ulgan_alexander_Lab14_1
 
 import org.junit.Test
 

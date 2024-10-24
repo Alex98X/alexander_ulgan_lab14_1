@@ -1,4 +1,4 @@
-package com.example.Anzules_Jordan_Lab14_1
+package com.example.ulgan_alexander_Lab14_1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
